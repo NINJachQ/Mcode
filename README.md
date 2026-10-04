@@ -3,5 +3,5 @@
 
 Support us!!!
 Tipply- https://tipply.pl/@ninjachqyt
-Buy Me a Coffee- buymeacoffee.com/dCa8LPJjNI
+Buy Me a Coffee- https://buymeacoffee.com/dCa8LPJjNI
 buycoffee- https://buycoffee.to/ninjachq
