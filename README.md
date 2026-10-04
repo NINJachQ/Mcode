@@ -5,3 +5,4 @@ Support us!!!
 Tipply- https://tipply.pl/@ninjachqyt
 Buy Me a Coffee- https://buymeacoffee.com/dCa8LPJjNI
 buycoffee- https://buycoffee.to/ninjachq
+Installer is in Releases!!!
