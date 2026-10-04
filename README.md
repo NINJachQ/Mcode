@@ -2,8 +2,11 @@
 **Mcode** is a modern AI-powered desktop app for Minecraft developers. Create, edit, debug, and manage Minecraft plugins with AI assistance. Built for Paper and other popular server platforms, Mcode combines AI tools, project management, and a simple interface to make plugin development faster and easier.
 
 Support us!!!
+
 Tipply- https://tipply.pl/@ninjachqyt
+
 Buy Me a Coffee- https://buymeacoffee.com/dCa8LPJjNI
+
 buycoffee- https://buycoffee.to/ninjachq
 
 Installer is in Releases!!!
@@ -12,3 +15,4 @@ Installer is in Releases!!!
 
 [⬇️ Download MCode Beta v1.0 for Windows]
 
+https://github.com/NINJachQ/Mcode/releases/tag/Mcode
