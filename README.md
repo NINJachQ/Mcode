@@ -33,7 +33,7 @@ Built with developers in mind, Mcode combines powerful AI tools, project managem
 
 More platforms will be available in the future.
 
-## ❤️ Support Mcode
+## ❤️ Support Mcore
 
 If you enjoy Mcode and want to support its development, you can donate here:
 
@@ -56,4 +56,6 @@ More information about the license will be added soon.
 ---
 
 **Mcode** • Build smarter. Code faster. 🚀
+
+By Mcore Studio
 
