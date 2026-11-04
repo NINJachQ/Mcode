@@ -29,6 +29,10 @@ Built with developers in mind, Mcode combines powerful AI tools, project managem
 
 [⬇️ Download Mcode Beta v1.1](https://github.com/NINJachQ/Mcode/releases/tag/McodeBetav1.1)
 
+**Mcode Beta v1.2**
+
+[⬇️ Download Mcode Beta v1.2]()
+
 > ⚠️ Mcode is currently in **Beta**. You may encounter bugs or unfinished features.
 
 More platforms will be available in the future.
